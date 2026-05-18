@@ -1,6 +1,6 @@
 # 🐱‍👤 Luis Tavares
 
-**`Desenvolvedor FullStack`**
+**`Dev FullStack`**
 
 Resumo sobre mim "[texto do link](link)"
 
@@ -23,7 +23,7 @@ Resumo sobre mim "[texto do link](link)"
 
 ---
 
-### 👨‍💻 Linguagens e Tecnologias
+### 👨‍💻 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -48,22 +48,6 @@ Resumo sobre mim "[texto do link](link)"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     align="left" 
@@ -105,34 +89,116 @@ Resumo sobre mim "[texto do link](link)"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
+
+<br/>
+<br/>
+
+---
+
+### 👨‍💻 Studying now
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
 <img 
     align="left" 
     alt="postgresql" 
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
 
 
 <br/>
 <br/>
 
-### 📊 Minhas estatísticas
+---
 
-<p>
+### 📊 My stats
+
   <img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Tavaresreistk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      alt="HTML"
+      title="HTML" 
+      width="309px" 
+      style="padding-right: 10px;" 
+    src="https://github-readme-stats.shion.dev/api?username=tavaresreistk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)" 
   />
 
-<img 
+  <img 
       align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavaresreistk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      alt="HTML"
+      title="HTML" 
+      width="318px" 
+      style="padding-right: 10px;" 
+      src="https://streak-stats.demolab.com/?user=tavaresreistk&theme=tokyonight&hide_border=false)" 
   />
-  
+
+  <img 
+      align="left" 
+      alt="HTML"
+      title="HTML" 
+      width="300px" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.shion.dev/api/top-langs/?username=tavaresreistk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
+  />
+
+<br clear="left"/>
+
+---
+
+### 📊 My Contacts
+
+<br/>
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/luis-felipe-tavares-5a7ba3240/">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            height="35"
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/tavaresreis.tk/?hl=pt-br">
+        <img 
+            alt="Instagram" 
+            title="Instagram" 
+            height="35"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="">
+        <img 
+            alt="Youtube" 
+            title="Youtube" 
+            height="35"
+            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+        />
+    </a>
 </p>
+
+
+
