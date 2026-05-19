@@ -1,8 +1,8 @@
 # 🐱‍👤 Luis Tavares
 
-**`Dev FullStack`**
+**`Dev FullStack`** **`Game Dev`** 
 
-Resumo sobre mim "[texto do link](link)"
+Computer Science student passionate about technology, software development, and creating solutions that combine creativity and practical application. Currently, I’ve been working on projects involving automation, data analysis, and embedded systems with Arduino. I enjoy exploring different areas of technology, constantly learning, and turning ideas into real-world projects, always striving to grow as a developer and build experiences that create an impact in the digital world. I’m also interested in the gaming industry, and whenever possible, I work on projects related to game development, while also enjoying sports and outdoor activities. You can learn more about what I’m currently working on and view my certifications by visiting my "[LinkedIn](https://www.linkedin.com/in/luis-felipe-tavares-5a7ba3240/)" profile.
 
 <p align="left">
     <a href="https://github.com/Tavaresreistk?tab=repositories&sort=stargazers">
@@ -23,7 +23,7 @@ Resumo sobre mim "[texto do link](link)"
 
 ---
 
-### 👨‍💻 Languages ​​and Technologies
+### 💻 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -169,7 +169,7 @@ Resumo sobre mim "[texto do link](link)"
 
 ---
 
-### 📊 My Contacts
+### 📱 My Contacts
 
 <br/>
 
